@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "9.8.6",
     "next": "9.5.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-map-gl": "^5.2.8",
+    "tailwindcss": "^1.8.10"
   }
 }
